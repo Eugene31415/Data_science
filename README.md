@@ -1,2 +1,5 @@
 # Data_science
-fzvfjvzfsjv
+Данный репозиторий содержит следующие pet-projects:
+1)
+2)
+3)
